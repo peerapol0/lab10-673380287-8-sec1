@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/products/093f0882-4999-4794-8503-293f410799da
+method: DELETE
+order: 44173136004971

@@ -1,0 +1,7 @@
+$kind: http-request
+url: http://localhost:8080/products
+method: POST
+body:
+  type: json
+  content: '   {"name":"Test","category":"Electronics","brand":"X","stock":5,"price":1000.0,"discountType":"NONE"}'
+order: 1789979742694
